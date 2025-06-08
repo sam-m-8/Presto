@@ -6,7 +6,7 @@ slides. Users can add components like text, images, videos and code blocks to sl
 these elements around, resize them and edit them. There are numerous features available such as version history,
 slide order rearranging, and slide transitions.
 
-This project just uses a simple backend, as the frontend design of the application was the focus.
+This project uses a simple backend that was not written by me, as the extensive frontend design of the application was the focus.
 
 ## How to use the application
 To start the backend:
